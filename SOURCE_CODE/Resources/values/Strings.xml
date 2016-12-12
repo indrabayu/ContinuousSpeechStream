@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Shared Button</string>
+  <string name="ApplicationName">App2</string>
+  <string name="Dump"></string>
+</resources>
