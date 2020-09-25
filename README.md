@@ -2,9 +2,9 @@
 
 This is the Continuous Speech Stream on Android using Xamarin.
 
-To be used by Stockholm University's DSV or MobileLife.
+This work was inspired by the work of <a href="https://dl.acm.org/doi/10.1145/2702123.2702532">McMillan and others</a> at Stockholm University's DSV.
 
-© 2016 Indra Bayu
+Â© 2016 Indra Bayu
 
 <table>
 <tr>
